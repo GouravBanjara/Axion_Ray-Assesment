@@ -24,7 +24,7 @@ Deliverables:
 Cleaned and analyzed Excel file
 Final report summarizing findings, visuals, and recommendations
 
-Tools & Skills Used
+<h2>Tools & Skills Used</h2>
 Microsoft Excel (Formulas, Filters, Pivot Tables, Data Validation)
 Data Cleaning & Transformation (Pandas, NumPy, Excel, Power Query)
 Logical Classification & Data Tagging
